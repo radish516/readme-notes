@@ -1,2 +1,1 @@
-精灵图背景定位，首次加载如果有transition会产生过渡效果，原因可能是a标签引起
-a标签默认不能使用background-posiition属性。
+<h1>精灵图用transition属性，在webpack未打包的本地环境下，会晃你得头疼。！！！打包后没事</h1>
