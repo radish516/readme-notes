@@ -1,0 +1,14 @@
+.container{
+	margin: 0 auto;
+	width: 200px;
+	height: 40px;
+	overflow: hidden;
+	position: relative;
+}
+.containerScroll{
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-size: 14px;
+	white-space:nowrap;
+}
